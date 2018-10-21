@@ -5,8 +5,11 @@ A curated list of awesome TIC-80 resources, games, carts, tools and more. Inspir
 
 ## Table of Contents
 [Games](https://github.com/ojdon/awesome-TIC-80/blob/master/README.md#games)
+
 [Tutorials](https://github.com/ojdon/awesome-TIC-80/blob/master/README.md#tutorials)
+
 [Assets](https://github.com/ojdon/awesome-TIC-80/blob/master/README.md#assets)
+
 [Tools](https://github.com/ojdon/awesome-TIC-80/blob/master/README.md#tools)
 
 ### Games
