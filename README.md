@@ -16,6 +16,7 @@ A curated list of awesome [TIC-80](https://tic.computer/) resources, games, cart
 
 ### Games
 [TIC-80 Games](https://tic.computer/play?cat=0)
+
 [TIC-80 tagged games on Itch.io](https://itch.io/games/tag-tic-80)
 
 
@@ -24,18 +25,27 @@ A curated list of awesome [TIC-80](https://tic.computer/) resources, games, cart
 
 ### Assets
 [Demos Gallery](https://tic.computer/play?cat=1)
+
 [Music Gallery](https://tic.computer/play?cat=3)
 
 ### Tools
 [TIC-80 Controller Test](https://tic.computer/play?cart=83)
+
 [TIC-80 Boilerplate](https://github.com/ojdon/tic80-boilerplate)
+
 [More TIC-80 tools](https://tic.computer/play?cat=2)
 
 ### Useful links
 [Official Website](https://tic.computer)
+
 [Download TIC-80](https://github.com/nesbox/TIC-80/releases)
+
 [Official Twitter](https://twitter.com/tic_computer?lang=en)
+
 [TIC-80 on Itch.io](https://nesbox.itch.io/tic)
+
 [TIC-80 community on itch.io](https://nesbox.itch.io/tic/community)
+
 [TIC-80 Changelog on itch.io](https://nesbox.itch.io/tic/devlog)
+
 [TIC-80 Subreddit](https://reddit.com/r/tic80)
